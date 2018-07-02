@@ -1,6 +1,7 @@
 a:link {color: #ff4d4d; text-decoration:none;}
 a:hover {color: #ff4d4d; text-decoration:underline;}
 a:active {color: #ff4d4d;}
+a:visited {color: #ff4d4d;}
 
 #wrap {width: 900px; position: relation; margin: 0px; font-family: Verdana; }
 #emptytop{width: 900px; height: 50px; position: relative; color: #090909; font-size: 13pt; text-align: left; line-height: 50px; font-family: Verdana; }
