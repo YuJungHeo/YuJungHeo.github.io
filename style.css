@@ -1,21 +1,37 @@
+.header {
+	width: 900px; 
+	height: 225px; 
+	position: relative; 
+	color: #090909; 
+	font-size: 13pt; 
+	text-align: left; 
+	line-height: 50px; 
+	font-family: Verdana; 
+}
+
+.news{
+	width: 880px; 
+	position:relation; 
+	color: #090909; 
+	font-size: 13pt; 
+	text-align: left; 
+	line-height: 25px; 
+	padding-left: 20px
+}
+
+.container {
+  max-width: 900px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 100px;
+}
+
+.footer{
+	margin-top: 20px;
+}
+
 a:link {color: #088A85; text-decoration:none;}
 a:hover {color: #088A85; text-decoration:underline;}
 a:active {color: #088A85;}
 a:visited {color: #088A85;}
-
-#wrap {width: 900px; position: relation; margin: 0px; font-family: Verdana; }
-#emptytop{width: 900px; height: 50px; position: relative; color: #090909; font-size: 13pt; text-align: left; line-height: 50px; font-family: Verdana; }
-#header{width: 900px; height: 225px; position: relative; color: #090909; font-size: 13pt; text-align: left; line-height: 50px; font-family: Verdana; }
-#header .image {width: 200px; height: 210px; position: relative; float: left; padding-top: 15px}
-#header .text  {width: 680px; height: 195px; position: relative; float: left; padding-left: 20px; padding-top: 30px}
-#news{width: 880px; position:relation; color: #090909; font-size: 13pt; text-align: left; line-height: 25px; padding-left: 20px}
-#news .left {width: 790px; position:relation; color: #090909; font-size: 13pt; float: left; text-align: left; line-height: 25px; padding-left: 10px}
-#news .right {width: 70px; position:relation; color: #090909; font-size: 13pt; float: left; text-align: left; line-height: 25px; padding-right: 10px}
-#container{width: 900px; height:2700px; position: relative; color: #090909; font-size: 13pt; text-align: left; line-height: 20px;}
-#container .nav {width: 100px; height: 360px; position: relative; float: left; background-color: #b9b2ff; font-size: 13pt; line-height: 20px; padding-top: 20px; text-align: left}
-#container .image {width: 200px; height: 370px; position: relative; float: left; background-color: #FF00FF; line-height: 20px; padding-top: 10px;}
-#container .container {width: 690px; height: 380px; position: relative; float: left; line-height: 20px; text-align: left; padding-top: 20px; padding-left: 10px; }
-#container .aside {width: 100px; height: 380px; position: relative; float: left; background-color: #6181c8;}
-#footer{width: 900px; height: 70px; position: relative; color: #090909; font-size: 14pt; text-align: left; line-height: 15px; padding-top: 10px}
-#footer .left {width: 440px; height: 70px; position: relative; float: left; color: #090909; font-size: 13pt; text-align: left; line-height: 15px; padding-top: 10px; padding-left: 10px;}
-#footer .right {width: 440px; height: 70px; position: relative; float: left; color: #090909; font-size: 13pt; text-align: right; line-height: 15px; padding-top: 10px; padding-right: 10px;}
+hr: {color: red;}
