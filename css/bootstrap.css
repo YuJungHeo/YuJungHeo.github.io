@@ -269,8 +269,9 @@ th {
   }
 }
 @font-face {
-  font-family: 'Georgia', 'Glyphicons Halflings';
-
+  font-family: 'FontAwesome', 'Glyphicons Halflings';
+  src: url('../fonts/font-awesome/fontawesome-webfont.eot');
+  src: url('../fonts/font-awesome/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../fonts/font-awesome/fontawesome-webfont.woff') format('woff'), url('../fonts/font-awesome/fontawesome-webfont.ttf') format('truetype'), url('../fonts/font-awesome/fontawesome-webfont.svg#fontawesomeregular') format('svg');
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
