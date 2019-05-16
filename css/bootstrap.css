@@ -6,7 +6,7 @@
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
-  font-family: Georgia;
+  font-family: FontAwesome;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -279,7 +279,7 @@ th {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Georgia', 'Glyphicons Halflings';
+  font-family: 'FontAwesome', 'Glyphicons Halflings';
   font-style: normal;
   font-weight: normal;
   line-height: 1;
