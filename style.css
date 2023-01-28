@@ -35,4 +35,4 @@ a:hover {color: #088A85; text-decoration:underline;}
 a:active {color: #088A85;}
 a:visited {color: #088A85;}
 hr: {color: red;}
-well details summary{cursor:pointer;}
+details summary{cursor:pointer;}
